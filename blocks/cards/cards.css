@@ -2,8 +2,9 @@
 
 .cards {
   width: 920px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
   display: flex;
   flex-wrap: wrap; /* enables its children can wrap to the next line */
+  list-style-type: none;
+  padding: 0;
 }

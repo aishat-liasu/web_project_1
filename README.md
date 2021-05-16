@@ -6,5 +6,5 @@ The website was built with **HTML5** & **CSS3**. The site isn't fully functional
 
 1. other pages will be added such as the mission and professions page.
 2. the social media links will be linked to actual social handles.
-3. the resources images will be their actual sites.
+3. the resources images will be linked to their actual sites.
 4. the "buy book" will be linked to a platform where one can get the book.
