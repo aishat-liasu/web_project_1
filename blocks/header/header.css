@@ -1,0 +1,10 @@
+.header {
+  height: 100vh; /* covers the total viewheight of the device */
+  min-height: 600px;
+  max-height: 756px;
+  position: relative;
+  overflow: hidden; /* truncates whatever doesn't fit in the specified width and height */
+  display: flex;
+  align-items: center;
+  background-color: #f2f2f2;
+}

@@ -1,0 +1,9 @@
+/* style the video__iframes block */
+
+.video__iframes {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  margin-left: auto; /* centers the */
+  margin-right: auto; /* video__iframes block */
+}

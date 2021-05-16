@@ -1,0 +1,6 @@
+.cards__image {
+  width: 160px; /* specifies the width */
+  height: 160px; /* specifies the height */
+  border-radius: 50%; /* creates a round image */
+  margin: 0 40px;
+}

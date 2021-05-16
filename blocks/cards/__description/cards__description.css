@@ -1,0 +1,7 @@
+.cards__description {
+  margin: 16px 0 0; /* clears the default margins and gives a top margin */
+  text-align: center; /* centers the item */
+  line-height: 23px;
+  font-size: 18px;
+  font-weight: normal;
+}

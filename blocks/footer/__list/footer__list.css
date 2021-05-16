@@ -1,0 +1,4 @@
+.footer__list {
+  padding: 0; /*removes default padding for the listed items */
+  margin: 0; /*removes default margin for the listed items */
+}
